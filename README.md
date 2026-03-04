@@ -105,6 +105,6 @@ currently  : Reconstruction de mes projets publics
 ████████████████████░░░░░░░░░░░░ 62%
 ```
 
-*— Simon Villain, 2025*
+*— Simon Viallon*
 
 </div>
